@@ -1,0 +1,12 @@
+CONTOH PYTHON PELAN-PELAN
+Gunakan Python 3. Semua contoh memakai pustaka bawaan.
+Buka terminal di dalam folder bab yang ingin dicoba.
+
+01-baca: python baca.py, lalu python baca_csv.py
+02-tulis: python tulis.py, python tambah.py, python tulis_csv.py
+PERHATIAN: mode w menimpa isi file latihan jika sudah ada.
+03-modul: python main.py
+04-exception: python baca_aman.py, python bagi_aman.py, python main.py
+
+Coba ubah siswa.csv: ganti nilai 90 menjadi halo, atau ganti nama file.
+Jalankan main.py lagi untuk melihat pesan penanganan error.
